@@ -1,3 +1,1 @@
-console.log(" Rodando o sistema de jogos");
-
-console.log(" Enviando para o GitHub");
+console.log(" Rodando o sistema de jogos")
